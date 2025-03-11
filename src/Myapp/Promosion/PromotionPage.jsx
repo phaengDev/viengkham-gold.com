@@ -5,7 +5,7 @@ import SliderType from '../product/SliderType'
 // import numeral from 'numeral';
 
 import Card from 'react-bootstrap/Card';
-import { Config, Urlimage } from '../../config/connection';
+import { Config, Urlimage } from '../../Config/connection';
 import LightGallery from 'lightgallery/react';
 function PromotionPage() {
 

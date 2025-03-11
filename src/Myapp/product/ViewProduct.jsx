@@ -1,6 +1,6 @@
 import React from 'react'
 import Modal from 'react-bootstrap/Modal';
-import { Urlimage } from '../../config/connection';
+import { Urlimage } from '../../Config/connection';
 import numeral from 'numeral';
 import { Link } from 'react-router-dom';
 

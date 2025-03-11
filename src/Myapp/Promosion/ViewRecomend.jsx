@@ -1,6 +1,6 @@
 import React,{useState,useEffect} from 'react'
 import {Modal,Card} from 'react-bootstrap';
-import { Urlimage } from '../../config/connection';
+import { Urlimage } from '../../Config/connection';
 import numeral from 'numeral';
 function ViewRecomend({show,handleClose,data}) {
   const img = Urlimage.url;

@@ -1,7 +1,7 @@
 import React,{useState,useEffect} from 'react'
 import Accordion from 'react-bootstrap/Accordion';
 import { Link } from 'react-router-dom';
-import { Config} from '../../config/connection';
+import { Config} from '../../Config/connection';
 function PolicyShop() {
   const api = Config.urlApi;
   const [itemPolicy, setItemPolicy] = useState([]);

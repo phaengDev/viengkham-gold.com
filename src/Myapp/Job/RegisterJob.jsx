@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import { Link, useLocation } from 'react-router-dom';
-import { Config, Urlimage } from '../../config/connection';
+import { Config, Urlimage } from '../../Config/connection';
 import axios from 'axios';
 import moment from 'moment';
 import { toast } from 'react-toastify';

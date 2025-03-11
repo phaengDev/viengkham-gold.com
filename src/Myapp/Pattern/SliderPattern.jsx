@@ -1,5 +1,5 @@
 import React,{useState,useEffect,useRef} from 'react'
-import { Config,Urlimage } from '../../config/connection';
+import { Config,Urlimage } from '../../Config/connection';
 import numeral from 'numeral';
 import axios from 'axios';
 import { Swiper, SwiperSlide } from 'swiper/react';

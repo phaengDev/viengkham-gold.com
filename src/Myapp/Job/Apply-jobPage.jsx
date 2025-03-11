@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom';
-import { Config, Urlimage } from '../../config/connection';
+import { Config, Urlimage } from '../../Config/connection';
 import Loading from '../../Layout/Loading';
 import moment from 'moment';
 function ApplyjobPage() {

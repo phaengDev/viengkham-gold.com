@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Config, Urlimage } from '../../config/connection';
+import { Config, Urlimage } from '../../Config/connection';
 import { Link, useLocation } from 'react-router-dom';
 import SliderType from '../product/SliderType'
 import axios from 'axios';

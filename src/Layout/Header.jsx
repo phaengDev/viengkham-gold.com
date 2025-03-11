@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import { Link } from 'react-router-dom';
-import { Config, Urlimage } from '../config/connection';
+import { Config, Urlimage } from '../Config/connection';
 export default function Header() {
   const api = Config.urlApi;
   const img = Urlimage.url;

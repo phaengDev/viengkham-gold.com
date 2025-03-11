@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import SliderType from '../product/SliderType'
-import { Config, Urlimage } from '../../config/connection';
+import { Config, Urlimage } from '../../Config/connection';
 import axios from 'axios';
 import numeral from 'numeral';
 import ViewProduct from './ViewProduct';

@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react'
-import { Config, Urlimage } from '../config/connection';
+import { Config, Urlimage } from '../Config/connection';
 import { useTitle } from '../Config/select-option';
 import { Link } from 'react-router-dom';
 import moment from 'moment/moment';

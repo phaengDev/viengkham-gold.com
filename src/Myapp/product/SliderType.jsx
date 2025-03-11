@@ -1,7 +1,7 @@
 import React, {useRef, useState, useEffect } from 'react';
 import Carousel from 'react-multi-carousel';
 import "react-multi-carousel/lib/styles.css";
-import { Config, Urlimage } from '../../config/connection';
+import { Config, Urlimage } from '../../Config/connection';
 import { Link,useNavigate } from 'react-router-dom';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/css';

@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 // import { Config } from '../../Config/connection';
-import { Config, Urlimage } from '../../config/connection';
+import { Config, Urlimage } from '../../Config/connection';
 import { LineChart } from './chartPrice';
 import numeral from 'numeral';
 import moment from 'moment';

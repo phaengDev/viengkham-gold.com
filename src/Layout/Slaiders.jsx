@@ -1,6 +1,6 @@
 import React,{useState,useEffect} from 'react'
 import Carousel from 'react-bootstrap/Carousel';
-import { Config, Urlimage } from '../config/connection';
+import { Config, Urlimage } from '../Config/connection';
 function Slaiders() {
   const api = Config.urlApi;
   const img = Urlimage.url;

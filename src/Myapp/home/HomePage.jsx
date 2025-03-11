@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react'
 import Slaiders from '../../Layout/Slaiders'
 import SliderType from '../product/SliderType'
-import { Config, Urlimage } from '../../config/connection';
+import { Config, Urlimage } from '../../Config/connection';
 import numeral from 'numeral';
 import axios from 'axios';
 import { Link } from 'react-router-dom';

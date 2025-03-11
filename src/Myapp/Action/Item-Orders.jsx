@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Link, useLocation } from 'react-router-dom';
 import TitlePorfile from './TitlePorfile';
-import { Config, Urlimage } from '../../config/connection';
+import { Config, Urlimage } from '../../Config/connection';
 import moment from 'moment';
 import numeral from 'numeral';
 import ViewInvioceOrder from './View-Invioce-Order';

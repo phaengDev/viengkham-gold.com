@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react'
 import { Link } from 'react-router-dom';
 import { Card, Row, Col } from 'react-bootstrap';
-import { Config, Urlimage } from '../../config/connection';
+import { Config, Urlimage } from '../../Config/connection';
 import numeral from 'numeral';
 import Loading from '../../Layout/Loading';
 import Pagination from 'react-bootstrap/Pagination';

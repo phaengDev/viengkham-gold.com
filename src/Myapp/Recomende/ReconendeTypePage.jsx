@@ -1,6 +1,6 @@
 import React,{useState,useEffect} from 'react'
 import { Link, useLocation } from 'react-router-dom';
-import { Config, Urlimage } from '../../config/connection';
+import { Config, Urlimage } from '../../Config/connection';
 import { Card, Row, Col } from 'react-bootstrap';
 import { useTitle } from '../../Config/select-option';
 import numeral from 'numeral';

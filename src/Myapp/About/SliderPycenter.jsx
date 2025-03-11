@@ -2,7 +2,7 @@ import React,{useEffect, useState} from 'react';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/css';
 import 'swiper/css/pagination';
-import { Config, Urlimage } from '../../config/connection';
+import { Config, Urlimage } from '../../Config/connection';
 import { Pagination } from 'swiper/modules';
 function SliderPycenter({colum}) {
     const api = Config.urlApi;

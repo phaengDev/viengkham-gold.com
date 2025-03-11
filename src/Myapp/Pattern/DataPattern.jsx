@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react'
-import { Config, Urlimage } from '../../config/connection';
+import { Config, Urlimage } from '../../Config/connection';
 import axios from 'axios';
 import numeral from 'numeral';
 import LightGallery from 'lightgallery/react';

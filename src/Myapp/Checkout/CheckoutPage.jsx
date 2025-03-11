@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom';
 import { useProvince2, useDistrict, useBank } from '../../Config/select-option';
-import { Config, Urlimage } from '../../config/connection';
+import { Config, Urlimage } from '../../Config/connection';
 import moment from 'moment';
 import numeral from 'numeral';
 import axios from 'axios';

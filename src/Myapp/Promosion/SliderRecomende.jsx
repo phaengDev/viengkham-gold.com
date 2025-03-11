@@ -5,7 +5,7 @@ import 'swiper/css/pagination';
 import {Pagination } from 'swiper/modules';
 import { Card } from "react-bootstrap";
 import LightGallery from 'lightgallery/react';
-import { Config, Urlimage} from '../../config/connection';
+import { Config, Urlimage} from '../../Config/connection';
 import numeral from 'numeral';
 import ViewRecomend from './ViewRecomend';
 function SliderRecomende() {

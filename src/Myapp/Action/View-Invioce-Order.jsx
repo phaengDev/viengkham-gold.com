@@ -3,7 +3,7 @@ import { Modal } from 'react-bootstrap';
 import { QRCodeSVG } from 'qrcode.react';
 import numeral from 'numeral';
 import moment from 'moment';
-import { Urlimage } from '../../config/connection';
+import { Urlimage } from '../../Config/connection';
 import html2canvas from 'html2canvas';
 import { jsPDF } from 'jspdf';
 function ViewInvioceOrder({ show, handleClose, data }) {

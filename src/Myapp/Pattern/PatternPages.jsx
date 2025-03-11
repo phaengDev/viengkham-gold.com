@@ -3,7 +3,7 @@ import DataPattern from './DataPattern';
 import { useTitle } from '../../Config/select-option'
 import { Link, useNavigate } from 'react-router-dom';
 import SliderRecomende from '../Promosion/SliderRecomende';
-import { Config, Urlimage } from '../../config/connection';
+import { Config, Urlimage } from '../../Config/connection';
 
 import { Swiper, SwiperSlide } from 'swiper/react';
 
